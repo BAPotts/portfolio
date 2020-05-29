@@ -1,13 +1,20 @@
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 h1 {
   margin: 12px;
   border: 2px solid rgb(128, 0, 100);
   padding: 4px;
   background-color: rgb(243, 236, 245);
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
 }
 
 img {
   float: left;
   margin: 12px;
+}
+.projects {
+  margin: 12px;
+  text-align: center;
 }
