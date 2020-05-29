@@ -10,11 +10,16 @@ h1 {
   
 }
 
-img {
-  float: left;
-  margin: 12px;
-}
+
 .projects {
   margin: 12px;
+  border: 2px;
+  padding: 4px;
   text-align: center;
+}
+
+.sidebar {
+  float:left;
+  width: 300px;
+  margin: 12px;
 }
