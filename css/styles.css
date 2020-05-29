@@ -28,3 +28,7 @@ h1 {
   width: 300px;
   margin: 12px;
 }
+
+.attn {
+  font-style: italic;
+}
