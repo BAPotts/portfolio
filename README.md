@@ -1,7 +1,7 @@
 # _Portfolio_
 
 #### _GIT, HTML, and CSS Test for Epicodus, 5/29/2020_
-
+#### https://bapotts.github.io/portfolio/
 #### By _**Beverly Potts**_
 
 ## Description
