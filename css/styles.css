@@ -21,9 +21,11 @@ h1 {
 .column {
   width: 300px;
   float: left;
+  text-align: center;
 }
 .sidebar {
   float:left;
   width: 300px;
   margin: 12px;
+ 
 }
